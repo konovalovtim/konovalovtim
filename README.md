@@ -20,9 +20,8 @@
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)  
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
-| <details>
+<details>
 <summary>Github stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rvinnie&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details> | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konovalovtim&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=konovalovtim&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+</details>
 
