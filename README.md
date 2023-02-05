@@ -14,12 +14,10 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools:
-<p align="left"> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/Bash.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a>   
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)  
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=konovalovtim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konovalovtim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
