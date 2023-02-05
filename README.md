@@ -22,7 +22,6 @@ amming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubuserc
 <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/clion.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a>   
 
-
 | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=konovalovtim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konovalovtim&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
