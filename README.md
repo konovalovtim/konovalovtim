@@ -12,10 +12,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 
-<details>
-<summary>Github stats</summary>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=konovalovtim&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
+| <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=konovalovtim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/konovalovtim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konovalovtim&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [telegram_link]: https://t.me/KonovalovTim
 [telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
