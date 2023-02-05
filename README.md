@@ -1,5 +1,8 @@
-🎓 I'm a student of School 21
-🏓 I’m currently learning C / C++ / DevOps / table tennis
+
+**About me**
+
+- 🎓 I'm a student of School 21
+- 🏓 I’m currently learning C / C++ / DevOps / table tennis
 
 ### Connect with me:
 [![Telegram contact][telegram_badge]][telegram_link]
