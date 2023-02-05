@@ -8,8 +8,7 @@
 <a href="https://t.me/KonovalovTim" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="KonovalovTim" height="40" width="40" /></a>
 
 ### Languages:
-![kotlin](https://user-images.githubusercontent.com/91022827/216835944-236bda0c-d634-4343-b9b4-2f69e43a2c91.svg) alt="kotlin" width="40" height="40"/> </a> 
-<p align="left"> 
+<p align="left">
 <a href="https://www.cprogr![kotlin](https://user-images.githubusercontent.com/91022827/216835836-2cd5be12-cd48-4dc2-b538-4924053af271.svg)
 amming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/C%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> 
