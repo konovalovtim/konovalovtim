@@ -16,16 +16,16 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)  
-![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)  
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
-![QT](https://img.shields.io/badge/QT-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)  
-![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-0078d7.svg?&style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-%23F05033.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
+![QT](https://img.shields.io/badge/QT-%2311AB00.svg?style=for-the-badge&logo=qt&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23F05033.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-0078d7.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23F05033.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 <details>
 <summary>Github stats</summary>
