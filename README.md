@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Timur+Konovalov)](https://git.io/typing-svg)
 
-**About me**
+### About me
 
 - 🎓 I'm a student of School 21
 - 🏓 I’m currently learning C / C++ / DevOps / table tennis
