@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Timur+Konovalov)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+i'm+Timur+Konovalov)](https://git.io/typing-svg)
 
 **About me**
 
@@ -6,7 +6,8 @@
 - 🏓 I’m currently learning C / C++ / DevOps / table tennis
 
 ### Connect with me:
-<a href="https://t.me/KonovalovTim" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="KonovalovTim" height="40" width="40" /></a>
+<a href="https://t.me/KonovalovTim"><img height="50px" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" title="Telegram"></a>
+<a href="mailto:timkonovalov9858@gmail.com"><img height="50px" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI=w240-h480-rw" title="Mail"></a>
 
 ### Languages:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
