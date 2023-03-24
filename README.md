@@ -3,7 +3,7 @@
 ### About me
 
 - 🎓 I'm a student of School 21
-- 🏓 I’m currently learning C / C++ / DevOps / table tennis
+- 🏓 I’m currently learning C++ / PostgreSQL / DevOps / table tennis
 
 ### Connect with me:
 <a href="https://t.me/KonovalovTim"><img height="50px" src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q=w240-h480-rw" title="Telegram"></a>
