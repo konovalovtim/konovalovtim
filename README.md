@@ -28,6 +28,7 @@
 ![Docker](https://img.shields.io/badge/docker-0078d7.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23F05033.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+### LeetCode:
 [![Tim Konovalov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=timkonovalov9858&theme=dark)](https://github.com/konovalovtim/leetcode-stats)
 
 <details>
